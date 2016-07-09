@@ -1,0 +1,26 @@
+/* ------------------------------------------------------------------------
+	Electronics & Communication Technology Illustrations - Animation Loops
+
+	NOTE: For all the classes having "stop-color" property, it is possible to set "stop-opacity". This will
+	help adding varying transparency to the gradient colors and brin wide design/appearance choises.
+	------------------------------------------------------------------------- */
+/* Common Styles that works for all the SVG animations  */
+.ecsvg-background-color1{
+	stop-color:#222222;
+}
+
+.ecsvg-background-color2{
+	stop-color:#000000;
+}
+
+.ecsvg-theme-gradient{
+	stop-color:#09f625;
+}
+
+.ecsvg-theme-fill{
+	fill: #09f625;
+}
+
+.ecsvg-theme-stroke{
+	stroke: #09f625;
+}
