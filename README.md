@@ -9,7 +9,9 @@ Be warned, at 250 hashes/second it would take hundreds of thousands of years to 
 
 # Possible future features
 Option for selecting possible characters and starting size
+
 Include a rainbow table for common hashes
+
 Themes
 
 
